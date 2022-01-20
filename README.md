@@ -67,12 +67,13 @@ Together with our method, we also release a set of four image-based robotic mani
 If you find our work useful in your research, please consider citing the paper as follows:
 
 ```
-@article{Jangir2022Look,
-  title={Look Closer: Bridging Egocentric and Third-Person Views with Transformers for Robotic Manipulation},
-  author={ Rishabh Jangir and Nicklas Hansen and Sambaral Ghosal and Mohit Jain and Xiaolong Wang},
-  booktitle={arXiv},
-  primaryclass={cs.LG},
-  year={2022}
+@misc{jangir2022look,
+      title={Look Closer: Bridging Egocentric and Third-Person Views with Transformers for Robotic Manipulation}, 
+      author={Rishabh Jangir and Nicklas Hansen and Sambaran Ghosal and Mohit Jain and Xiaolong Wang},
+      year={2022},
+      eprint={2201.07779},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
 }
 ```
 ## License
