@@ -67,7 +67,7 @@ Together with our method, we also release a set of four image-based robotic mani
 If you find our work useful in your research, please consider citing the paper as follows:
 
 ```
-@ARTICLE{9690036,
+@ARTICLE{jangir2022look,
   author={Jangir, Rishabh and Hansen, Nicklas and Ghosal, Sambaran and Jain, Mohit and Wang, Xiaolong},
   journal={IEEE Robotics and Automation Letters}, 
   title={Look Closer: Bridging Egocentric and Third-Person Views with Transformers for Robotic Manipulation}, 
