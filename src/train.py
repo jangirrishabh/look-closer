@@ -179,6 +179,7 @@ def main(args):
 		replay_buffer.add(obs, state, action, reward, next_obs, next_state)
 		episode_reward += reward
 		obs = next_obs
+		state = next_state
 		episode_success+=float(info['is_success'])
 		episode_step += 1
 
