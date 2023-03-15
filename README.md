@@ -16,6 +16,7 @@ GPU access with CUDA >=11.1 support is required. Install MuJoCo if you do not ha
 * Unzip the downloaded archive into `~/.mujoco/mujoco200` and place your license key file `mjkey.txt` at `~/.mujoco`.
 * Use the env variables `MUJOCO_PY_MJKEY_PATH` and `MUJOCO_PY_MUJOCO_PATH` to specify the MuJoCo license key path and the MuJoCo directory path.
 * Append the MuJoCo subdirectory bin path into the env variable `LD_LIBRARY_PATH`.
+* Mujoco version 200, gym version==0.21.0
 
 Then, the remainder of the dependencies can be installed with the following commands:
 
